@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "NIXON"
-  given-names: "ISOBEL"
+- family-names: "Nixon"
+  given-names: "Isobel"
 title: "Modulo Propagation Benchmarks"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
